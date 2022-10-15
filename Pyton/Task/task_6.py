@@ -11,3 +11,7 @@ for s in n:
         sum += int(s)
         
 print(sum)
+
+# n = 0,56
+# res = sum([int(s) for s in str(n) if s.isdigit()])
+# print(f"Cумма цыфры: {res} ")
