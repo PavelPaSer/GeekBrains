@@ -14,7 +14,6 @@
 
 MAIN_FILENAME = '/Users/pavelpashkov/GB/Pyton/Task/task_Telefon_info/list.txt'
 MAIN_FILENAME_2 = '/Users/pavelpashkov/GB/Pyton/Task/task_Telefon_info/list.csv'
-import numbers
 import time
 
 
